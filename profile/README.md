@@ -106,17 +106,6 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## 📊 Stats
-
-```
-🎮 Games Live        → 25
-📅 Domain Launched   → February 22, 2025
-👥 Daily Visitors    → 634
-🇺🇸 USA Traffic      → 48%
-🇮🇳 India Traffic    → 30%
-⚡ Cache Hit Rate    → 84.61%
-🔧 Solo Developer    → Yes
-```
 
 ---
 
