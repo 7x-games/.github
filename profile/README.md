@@ -68,7 +68,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 |---|---|---|
 | ♟️ Chess | [Play](https://7x.games/games/chess) | Chess Game Online Free |
 | 🎲 Ludo |  [Play](https://7x.games/games/ludo) | Play Ludo Online Free |
-| 🐍 Snakes & Ladders | 🔜 Coming Soon | Snakes and Ladders Online |
+| 🐍 Snakes & Ladders | [Play](https://7x.games/games/snakes-ladders)| Snakes and Ladders Online |
 | ✊ Rock Paper Scissors | 🔜 Coming Soon | Rock Paper Scissors Online |
 | 🔴 Checkers | 🔜 Coming Soon | Checkers Game Online |
 | 🟡 Connect 4 | 🔜 Coming Soon | Connect 4 Online Multiplayer |
