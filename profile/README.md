@@ -70,9 +70,9 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🎲 Ludo |  [Play](https://7x.games/games/ludo) | Play Ludo Online Free |
 | 🐍 Snakes & Ladders | [Play](https://7x.games/games/snakes-ladders)| Snakes and Ladders Online |
 | ✊ Rock Paper Scissors | [Play](https://7x.games/games/rock-paper-scissors) | Rock Paper Scissors Online |
-| 🔴 Checkers | 🔜 Coming Soon | Checkers Game Online |
-| 🟡 Connect 4 | 🔜 Coming Soon | Connect 4 Online Multiplayer |
-| ⚫ Othello | 🔜 Coming Soon | Othello Reversi Online Free |
+| 🔴 Checkers | [Play](https://7x.games/games/checkers) | Checkers Game Online |
+| 🟡 Connect 4 | [Play](https://7x.games/games/connect-4)| Connect 4 Online Multiplayer |
+| ⚫ Othello | [Play](https://7x.games/games/othello) | Othello Reversi Online Free |
 | 🔴 Mastermind | 🔜 Coming Soon | Mastermind Code Breaker Game |
 | 🌾 Mancala | 🔜 Coming Soon | Mancala Game Online Free |
 | ⬛ Dots & Boxes | 🔜 Coming Soon | Dots and Boxes Game Online |
