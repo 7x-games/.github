@@ -84,7 +84,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 ### 🕹️ Phase 5 — Arcade & Viral Classics
 | Game | Play | Keyword |
 |---|---|---|
-| 🐦 Flappy Bird Clone | Coming Soon | Play Flappy Bird Clone Online Free |
+| 🐦 Flappy Bird Clone | [Play](https://7x.games/games/flappy-bird) | Play Flappy Bird Clone Online Free |
 | 🔤 Anagram Game | Coming Soon | Anagram Game Online \| Word Scramble Puzzle |
 | 🧱 Brick Breaker | Coming Soon | Brick Breaker Classic Arcade Game Unblocked |
 | 🏓 Ping Pong (Pong) | Coming Soon | Retro Pong Game Online \| 2 Player Free |
