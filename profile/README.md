@@ -81,15 +81,18 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 
 
-## 🕹️ Phase 5: Arcade & Viral Classics (Days 61 - 75) total = 7
-* [ ] **Flappy Bird Clone** -> *Target Keyword:* `Play Flappy Bird Clone Online Free`
-* [ ] **Anagram Game** -> *Target Keyword:* `Anagram Game Online | Word Scramble Puzzle`
-* [ ] **Brick Breaker** -> *Target Keyword:* `Brick Breaker Classic Arcade Game Unblocked`
-* [ ] **Ping Pong (Pong)** -> *Target Keyword:* `Retro Pong Game Online | 2 Player Free`
-* [ ] **Helix Jump Clone** -> *Target Keyword:* `Helix Jump Game Online Free`
-* [ ] **Stack Game** -> *Target Keyword:* `Stack Tower Game Online | Addictive Block Game`
-* [ ] **Slope Style Runner** -> *Target Keyword:* `Slope Game Online | Endless Runner Unblocked`
+### 🕹️ Phase 5 — Arcade & Viral Classics
+| Game | Play | Keyword |
+|---|---|---|
+| 🐦 Flappy Bird Clone | Coming Soon | Play Flappy Bird Clone Online Free |
+| 🔤 Anagram Game | Coming Soon | Anagram Game Online \| Word Scramble Puzzle |
+| 🧱 Brick Breaker | Coming Soon | Brick Breaker Classic Arcade Game Unblocked |
+| 🏓 Ping Pong (Pong) | Coming Soon | Retro Pong Game Online \| 2 Player Free |
+| 🌀 Helix Jump Clone | Coming Soon | Helix Jump Game Online Free |
+| 🗼 Stack Game | Coming Soon | Stack Tower Game Online \| Addictive Block Game |
+| 🎿 Slope Style Runner | Coming Soon | Slope Game Online \| Endless Runner Unblocked |
 
+---
 ## 🚀 Roadmap
 
 ```
