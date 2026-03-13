@@ -74,7 +74,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🟡 Connect 4 | [Play](https://7x.games/games/connect-4)| Connect 4 Online Multiplayer |
 | ⚫ Othello | [Play](https://7x.games/games/othello) | Othello Reversi Online Free |
 | 🔴 Mastermind | [Play](https://7x.games/games/mastermind)| Mastermind Code Breaker Game |
-| 🌾 Mancala | 🔜 Coming Soon | Mancala Game Online Free |
+| 🌾 Mancala | [Play](https://7x.games/games/mancala) | Mancala Game Online Free |
 | ⬛ Dots & Boxes | 🔜 Coming Soon | Dots and Boxes Game Online |
 
 ---
