@@ -75,7 +75,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | ⚫ Othello | [Play](https://7x.games/games/othello) | Othello Reversi Online Free |
 | 🔴 Mastermind | [Play](https://7x.games/games/mastermind)| Mastermind Code Breaker Game |
 | 🌾 Mancala | [Play](https://7x.games/games/mancala) | Mancala Game Online Free |
-| ⬛ Dots & Boxes | 🔜 Coming Soon | Dots and Boxes Game Online |
+| ⬛ Dots & Boxes |  [Play](https://7x.games/games/dots-and-boxes)| Dots and Boxes Game Online |
 
 ---
 
@@ -85,8 +85,8 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 ✅ Phase 1  — Foundation        (9 games)   LIVE
 ✅ Phase 2  — Brain & Word      (9 games)   LIVE
 ✅ Phase 3  — Speed & Reflex    (6 games)   LIVE
-🔄 Phase 4  — Strategy & Classics (10 games) IN PROGRESS
-⬜ Phase 5  — Arcade & Viral    (7 games)
+✅ Phase 4  — Strategy & Classics (10 games) IN PROGRESS
+🔄 Phase 5  — Arcade & Viral    (7 games)
 ⬜ Phase 6  — Deep Puzzles      (6 games)
 ⬜ Phase 7  — Word & Language   (10 games)
 ⬜ Phase 8  — Math & Logic      (10 games)
