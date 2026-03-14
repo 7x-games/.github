@@ -81,17 +81,23 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 
 
-### 🕹️ Phase 5 — Arcade & Viral Classics
+### 🕹️ Phase 5 — Arcade, Viral & Cool Math
 | Game | Play | Keyword |
 |---|---|---|
-| 🐦 Flappy Bird Clone | [Play](https://7x.games/games/flappy-bird) | Play Flappy Bird Clone Online Free |
+| 🐦 Neon Flap (Flappy Bird) | [Play](https://7x.games/games/flappy-bird) | Play Flappy Bird Clone Online Free |
+| ⚡ Math Quiz Blitz | [Play](https://7x.games/games/math-quiz-blitz) | Cool Math Games Unblocked \| Fast Math Quiz |
+| 🔢 Number Drop (Math Tetris) | Coming Soon | Number Drop Block Puzzle \| Cool Math Games |
+| 🏃 Math Gate Runner | Coming Soon | Math Runner Game Online Free \| Cool Math |
+| 🃏 Solitaire | Coming Soon | Solitaire Free Online \| Classic Card Game Unblocked |
+| ♠️ Blackjack | Coming Soon | Blackjack Online Free \| Card Game No Download |
+| 🏎️ Car Racing Game | Coming Soon | Car Racing Game Online Free Unblocked |
 | 🔤 Anagram Game | Coming Soon | Anagram Game Online \| Word Scramble Puzzle |
 | 🧱 Brick Breaker | Coming Soon | Brick Breaker Classic Arcade Game Unblocked |
 | 🏓 Ping Pong (Pong) | Coming Soon | Retro Pong Game Online \| 2 Player Free |
 | 🌀 Helix Jump Clone | Coming Soon | Helix Jump Game Online Free |
 | 🗼 Stack Game | Coming Soon | Stack Tower Game Online \| Addictive Block Game |
 | 🎿 Slope Style Runner | Coming Soon | Slope Game Online \| Endless Runner Unblocked |
-
+| 👽 Doodle Jump Clone | Coming Soon | Doodle Jump Game Online Free Unblocked |
 ---
 ## 🚀 Roadmap
 
