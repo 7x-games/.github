@@ -86,8 +86,8 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 |---|---|---|
 | 🐦 Neon Flap (Flappy Bird) | [Play](https://7x.games/games/flappy-bird) | Play Flappy Bird Clone Online Free |
 | ⚡ Math Quiz Blitz | [Play](https://7x.games/games/math-quiz-blitz) | Cool Math Games Unblocked \| Fast Math Quiz |
-| 🔢 Number Drop (Math Tetris) | Coming Soon | Number Drop Block Puzzle \| Cool Math Games |
-| 🏃 Math Gate Runner | Coming Soon | Math Runner Game Online Free \| Cool Math |
+| 🔢 Number Drop (Math Tetris) |  [Play](https://7x.games/games/number-drop)  | Number Drop Block Puzzle \| Cool Math Games |
+| 🏃 Math Gate Runner |  [Play](https://7x.games/games/math-gate-runner)  | Math Runner Game Online Free \| Cool Math |
 | 🃏 Solitaire | Coming Soon | Solitaire Free Online \| Classic Card Game Unblocked |
 | ♠️ Blackjack | Coming Soon | Blackjack Online Free \| Card Game No Download |
 | 🏎️ Car Racing Game | Coming Soon | Car Racing Game Online Free Unblocked |
