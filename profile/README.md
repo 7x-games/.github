@@ -90,7 +90,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🃏 Solitaire | [Play](https://7x.games/games/solitaire) | Solitaire Free Online \| Classic Card Game Unblocked |
 | 🚗 Car Dodge Game | [Play](https://7x.games/games/car-dodge) | Car Dodge Game Online Free \| Dodge Traffic Unblocked |
 | 🔤 Anagram Game | [Play](https://7x.games/games/anagram)| Anagram Game Online \| Word Scramble Puzzle |
-| 🧱 Brick Breaker | Coming Soon | Brick Breaker Classic Arcade Game Unblocked |
+| 🧱 Brick Breaker | [Play](https://7x.games/games/brick-breaker) | Brick Breaker Classic Arcade Game Unblocked |
 | 🏓 Ping Pong (Pong) | Coming Soon | Retro Pong Game Online \| 2 Player Free |
 | 🌀 Helix Jump Clone | Coming Soon | Helix Jump Game Online Free |
 | 🗼 Stack Game | Coming Soon | Stack Tower Game Online \| Addictive Block Game |
