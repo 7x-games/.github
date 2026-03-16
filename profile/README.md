@@ -80,17 +80,15 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 ---
 
 
-
 ### 🕹️ Phase 5 — Arcade, Viral & Cool Math
 | Game | Play | Keyword |
 |---|---|---|
 | 🐦 Neon Flap (Flappy Bird) | [Play](https://7x.games/games/flappy-bird) | Play Flappy Bird Clone Online Free |
 | ⚡ Math Quiz Blitz | [Play](https://7x.games/games/math-quiz-blitz) | Cool Math Games Unblocked \| Fast Math Quiz |
-| 🔢 Number Drop (Math Tetris) |  [Play](https://7x.games/games/number-drop)  | Number Drop Block Puzzle \| Cool Math Games |
-| 🏃 Math Gate Runner |  [Play](https://7x.games/games/math-gate-runner)  | Math Runner Game Online Free \| Cool Math |
-| 🃏 Solitaire | Coming Soon | Solitaire Free Online \| Classic Card Game Unblocked |
-| ♠️ Blackjack | Coming Soon | Blackjack Online Free \| Card Game No Download |
-| 🏎️ Car Racing Game | Coming Soon | Car Racing Game Online Free Unblocked |
+| 🔢 Number Drop (Math Tetris) | [Play](https://7x.games/games/number-drop) | Number Drop Block Puzzle \| Cool Math Games |
+| 🏃 Math Gate Runner | [Play](https://7x.games/games/math-gate-runner) | Math Runner Game Online Free \| Cool Math |
+| 🃏 Solitaire | [Play](https://7x.games/games/solitaire) | Solitaire Free Online \| Classic Card Game Unblocked |
+| 🚗 Car Dodge Game | [Play](https://7x.games/games/car-dodge) | Car Dodge Game Online Free \| Dodge Traffic Unblocked |
 | 🔤 Anagram Game | Coming Soon | Anagram Game Online \| Word Scramble Puzzle |
 | 🧱 Brick Breaker | Coming Soon | Brick Breaker Classic Arcade Game Unblocked |
 | 🏓 Ping Pong (Pong) | Coming Soon | Retro Pong Game Online \| 2 Player Free |
@@ -98,9 +96,6 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🗼 Stack Game | Coming Soon | Stack Tower Game Online \| Addictive Block Game |
 | 🎿 Slope Style Runner | Coming Soon | Slope Game Online \| Endless Runner Unblocked |
 | 👽 Doodle Jump Clone | Coming Soon | Doodle Jump Game Online Free Unblocked |
----
-## 🚀 Roadmap
-
 ```
 ✅ Phase 1  — Foundation        (9 games)   LIVE
 ✅ Phase 2  — Brain & Word      (9 games)   LIVE
