@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (41/150)
+## ✅ !Games Live (42/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
