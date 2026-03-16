@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ Games Live (25/150)
+## ✅ ![Games Live](https://img.shields.io/badge/Games%20Live-40-brightgreen) (40/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
