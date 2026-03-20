@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (42/150)
+## ✅ !Games Live (45/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
@@ -91,9 +91,9 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🚗 Car Dodge Game | [Play](https://7x.games/games/car-dodge) | Car Dodge Game Online Free \| Dodge Traffic Unblocked |
 | 🔤 Anagram Game | [Play](https://7x.games/games/anagram)| Anagram Game Online \| Word Scramble Puzzle |
 | 🧱 Brick Breaker | [Play](https://7x.games/games/brick-breaker) | Brick Breaker Classic Arcade Game Unblocked |
-| 🏓 Ping Pong (Pong) | Coming Soon | Retro Pong Game Online \| 2 Player Free |
-| 🌀 Helix Jump Clone | Coming Soon | Helix Jump Game Online Free |
-| 🗼 Stack Game | Coming Soon | Stack Tower Game Online \| Addictive Block Game |
+| 🏓 Ping Pong (Pong) | [Play](https://7x.games/games/pong)  | Retro Pong Game Online \| 2 Player Free |
+| 🌀 Helix Jump Clone | [Play](https://7x.games/games/helix-jump)  | Helix Jump Game Online Free |
+| 🗼 Stack Game | [Play](https://7x.games/games/stack-game)  | Stack Tower Game Online \| Addictive Block Game |
 | 🎿 Slope Style Runner | Coming Soon | Slope Game Online \| Endless Runner Unblocked |
 | 👽 Doodle Jump Clone | Coming Soon | Doodle Jump Game Online Free Unblocked |
 ```
