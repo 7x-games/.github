@@ -97,6 +97,25 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🎿 Slope Style Runner | [Play](https://7x.games/games/slope-runner) | Slope Game Online \| Endless Runner Unblocked |
 | 👽 Doodle Jump Clone | [Play](https://7x.games/games/doodle-jump) | Doodle Jump Game Online Free Unblocked |
 ```
+
+### 🧩 Phase 6 — Deep Puzzles, Hyper-Casual & Kids Math
+| Game | Play | Keyword |
+|---|---|---|
+| 🍪 Cookie Clicker | Coming Soon | Cookie Idle Clicker Game \| Unblocked Web Game |
+| 🍉 Watermelon Game (Suika Clone) | Coming Soon | Suika Watermelon Drop Game Clone Free |
+| ⛏️ Idle Miner Clicker | Coming Soon | Idle Miner Game Online \| Incremental Clicker |
+| 🧩 2048 Multiplayer Variant | Coming Soon | 2048 Multiplayer Online \| Competitive Mode |
+| 🃏 Memory Card Pro | Coming Soon | Advanced Memory Card Game \| Brain Training |
+| ✖️ Times Table Practice | Coming Soon | Times Table Games Online Free For Kids |
+| ➗ Fraction Math Game | Coming Soon | Fraction Games Online Free For Kids |
+| 🎰 Math Bingo | Coming Soon | Math Bingo Game Online Free Kids |
+| 🔢 Number Bonds | Coming Soon | Number Bonds Game Online Free Kids |
+| 💰 Money Math | Coming Soon | Money Math Game Online Free Kids |
+| 🏛️ Roman Numerals Game | Coming Soon | Roman Numerals Game Online Free |
+
+---
+
+
 ✅ Phase 1  — Foundation        (9 games)   LIVE
 ✅ Phase 2  — Brain & Word      (9 games)   LIVE
 ✅ Phase 3  — Speed & Reflex    (6 games)   LIVE
