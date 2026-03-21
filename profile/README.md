@@ -94,15 +94,15 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🏓 Ping Pong (Pong) | [Play](https://7x.games/games/pong)  | Retro Pong Game Online \| 2 Player Free |
 | 🌀 Helix Jump Clone | [Play](https://7x.games/games/helix-jump)  | Helix Jump Game Online Free |
 | 🗼 Stack Game | [Play](https://7x.games/games/stack-game)  | Stack Tower Game Online \| Addictive Block Game |
-| 🎿 Slope Style Runner | Coming Soon | Slope Game Online \| Endless Runner Unblocked |
-| 👽 Doodle Jump Clone | Coming Soon | Doodle Jump Game Online Free Unblocked |
+| 🎿 Slope Style Runner | [Play](https://7x.games/games/slope-runner) | Slope Game Online \| Endless Runner Unblocked |
+| 👽 Doodle Jump Clone | [Play](https://7x.games/games/doodle-jump) | Doodle Jump Game Online Free Unblocked |
 ```
 ✅ Phase 1  — Foundation        (9 games)   LIVE
 ✅ Phase 2  — Brain & Word      (9 games)   LIVE
 ✅ Phase 3  — Speed & Reflex    (6 games)   LIVE
 ✅ Phase 4  — Strategy & Classics (10 games) IN PROGRESS
-🔄 Phase 5  — Arcade & Viral    (7 games)
-⬜ Phase 6  — Deep Puzzles      (6 games)
+✅ Phase 5  — Arcade & Viral    (13 games)
+🔄 Phase 6  — Deep Puzzles      (11 games)
 ⬜ Phase 7  — Word & Language   (10 games)
 ⬜ Phase 8  — Math & Logic      (10 games)
 ⬜ Phase 9  — Casual & Hyper    (10 games)
