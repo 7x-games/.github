@@ -96,15 +96,16 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🗼 Stack Game | [Play](https://7x.games/games/stack-game)  | Stack Tower Game Online \| Addictive Block Game |
 | 🎿 Slope Style Runner | [Play](https://7x.games/games/slope-runner) | Slope Game Online \| Endless Runner Unblocked |
 | 👽 Doodle Jump Clone | [Play](https://7x.games/games/doodle-jump) | Doodle Jump Game Online Free Unblocked |
-```
+
 
 ### 🧩 Phase 6 — Deep Puzzles, Hyper-Casual & Kids Math
+
 | Game | Play | Keyword |
 |---|---|---|
 | 🍪 Cookie Clicker | [Play](https://7x.games/games/cookie-clicker) | Cookie Idle Clicker Game \| Unblocked Web Game |
 | 🍉 Watermelon Game (Suika Clone) | [Play](https://7x.games/games/watermelon-game) | Suika Watermelon Drop Game Clone Free |
-| ⛏️ Idle Miner Clicker | [Play](https://7x.games/games/idle-miner)  | Idle Miner Game Online \| Incremental Clicker |
-| 🧩 2048 Multiplayer Variant | [Play](https://7x.games/games/2048-multiplayer)  | 2048 Multiplayer Online \| Competitive Mode |
+| ⛏️ Idle Miner Clicker | [Play](https://7x.games/games/idle-miner) | Idle Miner Game Online \| Incremental Clicker |
+| 🧩 2048 Multiplayer Variant | [Play](https://7x.games/games/2048-multiplayer) | 2048 Multiplayer Online \| Competitive Mode |
 | 🃏 Memory Card Pro | Coming Soon | Advanced Memory Card Game \| Brain Training |
 | ✖️ Times Table Practice | Coming Soon | Times Table Games Online Free For Kids |
 | ➗ Fraction Math Game | Coming Soon | Fraction Games Online Free For Kids |
@@ -112,7 +113,6 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🔢 Number Bonds | Coming Soon | Number Bonds Game Online Free Kids |
 | 💰 Money Math | Coming Soon | Money Math Game Online Free Kids |
 | 🏛️ Roman Numerals Game | Coming Soon | Roman Numerals Game Online Free |
----
 
 
 ✅ Phase 1  — Foundation        (9 games)   LIVE
