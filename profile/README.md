@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (47/150)
+## ✅ !Games Live (51/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
@@ -101,10 +101,10 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 ### 🧩 Phase 6 — Deep Puzzles, Hyper-Casual & Kids Math
 | Game | Play | Keyword |
 |---|---|---|
-| 🍪 Cookie Clicker | Coming Soon | Cookie Idle Clicker Game \| Unblocked Web Game |
-| 🍉 Watermelon Game (Suika Clone) | Coming Soon | Suika Watermelon Drop Game Clone Free |
-| ⛏️ Idle Miner Clicker | Coming Soon | Idle Miner Game Online \| Incremental Clicker |
-| 🧩 2048 Multiplayer Variant | Coming Soon | 2048 Multiplayer Online \| Competitive Mode |
+| 🍪 Cookie Clicker | [Play](https://7x.games/games/cookie-clicker) | Cookie Idle Clicker Game \| Unblocked Web Game |
+| 🍉 Watermelon Game (Suika Clone) | [Play](https://7x.games/games/watermelon-game) | Suika Watermelon Drop Game Clone Free |
+| ⛏️ Idle Miner Clicker | [Play](https://7x.games/games/idle-miner)  | Idle Miner Game Online \| Incremental Clicker |
+| 🧩 2048 Multiplayer Variant | [Play](https://7x.games/games/2048-multiplayer)  | 2048 Multiplayer Online \| Competitive Mode |
 | 🃏 Memory Card Pro | Coming Soon | Advanced Memory Card Game \| Brain Training |
 | ✖️ Times Table Practice | Coming Soon | Times Table Games Online Free For Kids |
 | ➗ Fraction Math Game | Coming Soon | Fraction Games Online Free For Kids |
