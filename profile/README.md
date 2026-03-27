@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (51/150)
+## ✅ !Games Live (53/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
@@ -106,8 +106,8 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🍉 Watermelon Game (Suika Clone) | [Play](https://7x.games/games/watermelon-game) | Suika Watermelon Drop Game Clone Free |
 | ⛏️ Idle Miner Clicker | [Play](https://7x.games/games/idle-miner) | Idle Miner Game Online \| Incremental Clicker |
 | 🧩 2048 Multiplayer Variant | [Play](https://7x.games/games/2048-multiplayer) | 2048 Multiplayer Online \| Competitive Mode |
-| 🃏 Memory Card Pro | Coming Soon | Advanced Memory Card Game \| Brain Training |
-| ✖️ Times Table Practice | Coming Soon | Times Table Games Online Free For Kids |
+| 🃏 Memory Card Pro | [Play](https://7x.games/games/memory-card-pro) | Advanced Memory Card Game \| Brain Training |
+| ✖️ Times Table Practice | [Play](https://7x.games/games/times-table) | Times Table Games Online Free For Kids |
 | ➗ Fraction Math Game | Coming Soon | Fraction Games Online Free For Kids |
 | 🎰 Math Bingo | Coming Soon | Math Bingo Game Online Free Kids |
 | 🔢 Number Bonds | Coming Soon | Number Bonds Game Online Free Kids |
