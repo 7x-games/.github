@@ -119,8 +119,8 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 ✅ Phase 2  — Brain & Word      (9 games)   LIVE
 ✅ Phase 3  — Speed & Reflex    (6 games)   LIVE
 ✅ Phase 4  — Strategy & Classics (10 games) IN PROGRESS
-✅ Phase 5  — Arcade & Viral    (13 games)
-🔄 Phase 6  — Deep Puzzles      (11 games)
+✅ Phase 5  — Arcade, Viral & Cool Math    (13 games)
+🔄 Phase 6  — Deep Puzzles, Hyper-Casual & Kids Math      (11 games)
 ⬜ Phase 7  — Word & Language   (10 games)
 ⬜ Phase 8  — Math & Logic      (10 games)
 ⬜ Phase 9  — Casual & Hyper    (10 games)
