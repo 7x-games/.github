@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (53/150)
+## ✅ !Games Live (55/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
@@ -108,8 +108,8 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🧩 2048 Multiplayer Variant | [Play](https://7x.games/games/2048-multiplayer) | 2048 Multiplayer Online \| Competitive Mode |
 | 🃏 Memory Card Pro | [Play](https://7x.games/games/memory-card-pro) | Advanced Memory Card Game \| Brain Training |
 | ✖️ Times Table Practice | [Play](https://7x.games/games/times-table) | Times Table Games Online Free For Kids |
-| ➗ Fraction Math Game | Coming Soon | Fraction Games Online Free For Kids |
-| 🎰 Math Bingo | Coming Soon | Math Bingo Game Online Free Kids |
+| ➗ Fraction Math Game | [Play](https://7x.games/games/fraction-math) | Fraction Games Online Free For Kids |
+| 🎰 Math Bingo | [Play](https://7x.games/games/math-bingo) | Math Bingo Game Online Free Kids |
 | 🔢 Number Bonds | Coming Soon | Number Bonds Game Online Free Kids |
 | 💰 Money Math | Coming Soon | Money Math Game Online Free Kids |
 | 🏛️ Roman Numerals Game | Coming Soon | Roman Numerals Game Online Free |
