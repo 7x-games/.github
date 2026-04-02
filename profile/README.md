@@ -128,6 +128,9 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🔗 Word Chain | Coming Soon | Word Chain Game Online Free |
 | 🎵 Rhyme Time | Coming Soon | Rhyme Word Game Online Brain Puzzle |
 | 🟩 Daily Wordle Hard Mode | Coming Soon | Hard Mode Wordle Clone Daily Free |
+```
+
+
 
 ✅ Phase 1  — Foundation        (9 games)   LIVE
 ✅ Phase 2  — Brain & Word      (9 games)   LIVE
