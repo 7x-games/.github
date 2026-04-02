@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (55/150)
+## ✅ !Games Live (59/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
@@ -110,18 +110,32 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | ✖️ Times Table Practice | [Play](https://7x.games/games/times-table) | Times Table Games Online Free For Kids |
 | ➗ Fraction Math Game | [Play](https://7x.games/games/fraction-math) | Fraction Games Online Free For Kids |
 | 🎰 Math Bingo | [Play](https://7x.games/games/math-bingo) | Math Bingo Game Online Free Kids |
-| 🔢 Number Bonds | Coming Soon | Number Bonds Game Online Free Kids |
-| 💰 Money Math | Coming Soon | Money Math Game Online Free Kids |
-| 🏛️ Roman Numerals Game | Coming Soon | Roman Numerals Game Online Free |
-```
+| 🔢 Number Bonds | [Play](https://7x.games/games/number-bonds) | Number Bonds Game Online Free Kids |
+| 💰 Money Math | [Play](https://7x.games/games/money-math) | Money Math Game Online Free Kids |
+| 🏛️ Roman Numerals Game | [Play](https://7x.games/games/roman-numerals) | Roman Numerals Game Online Free |
+
+### 🔤 Phase 7: Word & Language Games (Days 91 - 105) total = 10
+
+| Game | Play | Keyword |
+|---|---|---|
+| 🧩 Crossword Mini | Coming Soon | Mini Crossword Puzzle Online Free |
+| 🔍 Word Search | Coming Soon | Word Search Game Online Free |
+| 🔤 Boggle Clone | Coming Soon | Boggle Word Game Online Free |
+| ⌨️ Typing Racer | Coming Soon | Typing Race Game Online Multiplayer |
+| 🔀 Scramble Words | Coming Soon | Word Scramble Game Online Free |
+| 🐝 Spelling Bee Clone | Coming Soon | Spelling Bee Word Game Online |
+| 🍲 Letter Soup | Coming Soon | Letter Soup Word Puzzle Free Online |
+| 🔗 Word Chain | Coming Soon | Word Chain Game Online Free |
+| 🎵 Rhyme Time | Coming Soon | Rhyme Word Game Online Brain Puzzle |
+| 🟩 Daily Wordle Hard Mode | Coming Soon | Hard Mode Wordle Clone Daily Free |
 
 ✅ Phase 1  — Foundation        (9 games)   LIVE
 ✅ Phase 2  — Brain & Word      (9 games)   LIVE
 ✅ Phase 3  — Speed & Reflex    (6 games)   LIVE
 ✅ Phase 4  — Strategy & Classics (10 games) IN PROGRESS
 ✅ Phase 5  — Arcade, Viral & Cool Math    (13 games)
-🔄 Phase 6  — Deep Puzzles, Hyper-Casual & Kids Math      (11 games)
-⬜ Phase 7  — Word & Language   (10 games)
+✅ Phase 6  — Deep Puzzles, Hyper-Casual & Kids Math    
+🔄 Phase 7  —  Phase 7: Word & Language Games
 ⬜ Phase 8  — Math & Logic      (10 games)
 ⬜ Phase 9  — Casual & Hyper    (10 games)
 ⬜ Phase 10 — Trivia & Knowledge(8 games)
