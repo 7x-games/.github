@@ -118,7 +118,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 | Game | Play | Keyword |
 |---|---|---|
-| 🧩 Crossword Mini | [Play](https://7x.games/games/mini-crossword) | Mini Crossword Puzzle Online Free |
+| 🧩 Crossword Mini | [Play](https://7x.games/games/crossword-mini)) | Mini Crossword Puzzle Online Free |
 | 🔍 Word Search | Coming Soon | Word Search Game Online Free |
 | 🔤 Boggle Clone | Coming Soon | Boggle Word Game Online Free |
 | ⌨️ Typing Racer | Coming Soon | Typing Race Game Online Multiplayer |
@@ -151,7 +151,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 ⬜ Phase 17 — Retro Arcade      (10 games)
 ⬜ Phase 18 — Final Push        (7 games)
 ─────────────────────────────────────────
-🎯 Total Target: 150 games
+🎯 Total Target: 160 games
 ```
 
 ---
