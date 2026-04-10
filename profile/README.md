@@ -161,7 +161,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 
 
-### 🕹️ Playgama Embedded Games — 3 New Categories Live
+### 🕹️  Embedded Games — 3 New Categories Live
 
 #### 🎯 IO Games | [Browse All](https://7x.games/io)
 | Game | Play |
