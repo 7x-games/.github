@@ -159,6 +159,72 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
+
+
+### 🕹️ Playgama Embedded Games — 3 New Categories Live
+
+#### 🎯 IO Games | [Browse All](https://7x.games/io)
+| Game | Play |
+|---|---|
+| 🐍 Snake 2048 | [Play](https://7x.games/io/snake-2048-64be-1) |
+| 🕳️ Attack Hole | [Play](https://7x.games/io/attack-hole) |
+| 📏 Tall IO | [Play](https://7x.games/io/tall-io) |
+| ⚔️ Sworded IO | [Play](https://7x.games/io/sworded-io--spin-and-rub) |
+| 👾 Snake 2077: Glitch War | [Play](https://7x.games/io/snake-2077-glitch-war) |
+| 🐍 Snake Arena | [Play](https://7x.games/io/snake--arena) |
+| 🐍 Snake Slither Italian Brainrot | [Play](https://7x.games/io/snake-slitherio-italian-brainrot) |
+| 🎳 RageRoll IO | [Play](https://7x.games/io/rageroll-io) |
+| 🔷 HexFall IO | [Play](https://7x.games/io/hexfall-io) |
+| 🧹 Broomcraft Mystic Evasion | [Play](https://7x.games/io/broomcraft-mystic-evasion) |
+| 👊 Little Big Fighters | [Play](https://7x.games/io/little-big-fighters) |
+| 🎨 Pixel Tracer | [Play](https://7x.games/io/pixel-tracer) |
+| 🔻 ShrinkZone IO | [Play](https://7x.games/io/shrinkzoneio) |
+
+#### 🫧 Bubble Shooter | [Browse All](https://7x.games/bubble-shooter)
+| Game | Play |
+|---|---|
+| 🫧 Bubble Pop Legend | [Play](https://7x.games/bubble-shooter/bubble-pop-legend) |
+| 💥 Bubble Blast | [Play](https://7x.games/bubble-shooter/bubble-blast) |
+| 🫧 Bubble Shooter Tap & Pop | [Play](https://7x.games/bubble-shooter/bubble-shooter-tap--pop) |
+| 🌸 Bubble Pop Fairyland | [Play](https://7x.games/bubble-shooter/bubble-pop-fairyland) |
+| 🎱 Pool Shoot Tournament | [Play](https://7x.games/bubble-shooter/pool-shoot-tournament-ac06-1) |
+| 💣 Bubble Boom | [Play](https://7x.games/bubble-shooter/bubble-boom) |
+| 🎯 Sniper Shooter Save The Fish | [Play](https://7x.games/bubble-shooter/sniper-shootersave-the-fish) |
+| 🗼 Bubble Tower | [Play](https://7x.games/bubble-shooter/bubble-tower) |
+| ⬆️ DD Bubble Up | [Play](https://7x.games/bubble-shooter/dd-bubble-up) |
+| 🫧 Bubble Shooter Mega | [Play](https://7x.games/bubble-shooter/bubble-shooter-mega) |
+| 🏝️ Bubble Shooter Island Quest | [Play](https://7x.games/bubble-shooter/bubble-shooter-island-quest) |
+| 🌊 Ocean Pop | [Play](https://7x.games/bubble-shooter/ocean-pop) |
+| 💥 Flow Blast Shooter | [Play](https://7x.games/bubble-shooter/flow-blast-shooter) |
+| 🏴‍☠️ Pirate Cannon Mega Battle | [Play](https://7x.games/bubble-shooter/pirate-cannon-a-mega-battle) |
+| 🫧 Bubble Mania | [Play](https://7x.games/bubble-shooter/bubble-mania) |
+
+#### 📝 Word Puzzle | [Browse All](https://7x.games/word-puzzle)
+| Game | Play |
+|---|---|
+| 🔍 Word Finder | [Play](https://7x.games/word-puzzle/word-finder) |
+| 🔎 Word Search Hidden Words | [Play](https://7x.games/word-puzzle/word-search-hidden-words) |
+| 🃏 Word Solitaire | [Play](https://7x.games/word-puzzle/word-solitaire) |
+| 🔗 Word Associations Solitaire | [Play](https://7x.games/word-puzzle/word-associations-solitaire) |
+| ✝️ Word Cross | [Play](https://7x.games/word-puzzle/word-cross) |
+| ❓ Word Search Quiz | [Play](https://7x.games/word-puzzle/word-search-quiz) |
+| 🎓 Words With Prof Wisely | [Play](https://7x.games/word-puzzle/words-with-prof-wisely) |
+| 🧵 Word String | [Play](https://7x.games/word-puzzle/word-string) |
+| 🤯 Mindblow | [Play](https://7x.games/word-puzzle/mindblow) |
+| 👨‍🍳 Word Chef | [Play](https://7x.games/word-puzzle/word-chef) |
+| 🍳 Cooking Letters Word Search | [Play](https://7x.games/word-puzzle/cooking-letters--word-search) |
+| 💡 4 Clues 1 Word | [Play](https://7x.games/word-puzzle/4-clues-1-word) |
+| 😀 Emoji Guess | [Play](https://7x.games/word-puzzle/emoji-guess) |
+| 📖 Simple Words | [Play](https://7x.games/word-puzzle/simple-words) |
+| 📚 Words Story | [Play](https://7x.games/word-puzzle/words-story) |
+| 🔗 Word Associations Can You Guess | [Play](https://7x.games/word-puzzle/word-associations-can-you-guess) |
+| 🔐 Cryptograms Secret Text | [Play](https://7x.games/word-puzzle/cryptograms-secret-text) |
+| 🖼️ Pics 2 Word | [Play](https://7x.games/word-puzzle/pics-2-word) |
+| 🗺️ Word Search Adventure | [Play](https://7x.games/word-puzzle/word-search-adventure) |
+| 🔤 Word Puzzle Connect | [Play](https://7x.games/word-puzzle/word-puzzle-connect-words-and-letters) |
+| 🎨 Draw and Guess Online | [Play](https://7x.games/word-puzzle/draw-and-guess-online) |
+| 🔮 Alpha Balls | [Play](https://7x.games/word-puzzle/alpha-balls) |
+
 ## 🛠️ Built With
 
 ```
