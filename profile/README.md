@@ -225,6 +225,188 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🎨 Draw and Guess Online | [Play](https://7x.games/word-puzzle/draw-and-guess-online) |
 | 🔮 Alpha Balls | [Play](https://7x.games/word-puzzle/alpha-balls) |
 
+
+#### 🧟 Zombie Games | [Browse All](https://7x.games/zombie)
+| Game | Play |
+|---|---|
+| 🧟 PVZ Fusion Cheats | [Play](https://7x.games/zombie/plants-vs-zombies-fusion-edition) |
+| 🧟 Zombie Raid | [Play](https://7x.games/zombie/zombie-raid) |
+| 🧟 Plants vs Zombies Fusion Mode | [Play](https://7x.games/zombie/plants-vs-zombies-fusion-mode) |
+| 🧟 Zombie Space Episode II | [Play](https://7x.games/zombie/zombie-space-episode-ii) |
+| 🧟 Rise of the Dead | [Play](https://7x.games/zombie/rise-of-the-dead) |
+| 🧟 Zombie Horde: Build & Survive | [Play](https://7x.games/zombie/zombie-horde-build--survive) |
+| 🧟 Zombie Check: Survival Shelter | [Play](https://7x.games/zombie/zombie-check-survival-shelter) |
+| 🧟 Build Your Zombie Horde | [Play](https://7x.games/zombie/build-your-zombie-horde) |
+| 🧟 Animals vs Zombies | [Play](https://7x.games/zombie/animals-vs-zombies) |
+| 🧟 Trap Craft | [Play](https://7x.games/zombie/trap-craft) |
+| 🧟 Madness Online | [Play](https://7x.games/zombie/madness-online) |
+| 🧟 Zombie Derby 2 | [Play](https://7x.games/zombie/zombie-derby-2) |
+| 🧟 War V: Path of the Survivor! | [Play](https://7x.games/zombie/war-v-path-of-the-survivor) |
+| 🧟 Survival Tycoon: City of Zombie | [Play](https://7x.games/zombie/survival-tycoon-city-of-zombie) |
+| 🧟 Zombie Hunter: Survival | [Play](https://7x.games/zombie/zombie-hunter-survival) |
+| 🧟 Zombie Derby | [Play](https://7x.games/zombie/zombie-derby) |
+| 🧟 Zombie Rage: Merge 3D | [Play](https://7x.games/zombie/zombie-rage-merge-3d) |
+| 🧟 Noob Legends Dungeon Adventures | [Play](https://7x.games/zombie/noob-legends-dungeon-adventures-3205-1) |
+| 🧟 We not survive | [Play](https://7x.games/zombie/we-not-survive-d862-1) |
+| 🧟 Nubiks build a defense vs zombies | [Play](https://7x.games/zombie/nubiks-build-a-defense-vs-zombies) |
+| 🧟 Stalker 2033: The Path of the Survivor | [Play](https://7x.games/zombie/stalker-2033-the-path-of-the-survivor) |
+| 🧟 SWAT and GREENS vs Zombies | [Play](https://7x.games/zombie/swat-and-greens-vs-zombies) |
+| 🧟 Farm: Nubik Vs Zombies | [Play](https://7x.games/zombie/farm-nubik-vs-zombies) |
+| 🧟 Noob saves a girl: A Story | [Play](https://7x.games/zombie/noob-saves-girl-a-story) |
+| 🧟 Left 4 Die | [Play](https://7x.games/zombie/left-4-die) |
+| 🧟 Mr.Tung Shoot Zombie | [Play](https://7x.games/zombie/mrtung-shoot-zombie) |
+| 🧟 Zombie Monster Survivors | [Play](https://7x.games/zombie/zombie-monster-survivors) |
+| 🧟 Monster Slayer: Merge & Survive | [Play](https://7x.games/zombie/monster-slayer-merge--survive) |
+| 🧟 King of pirate | [Play](https://7x.games/zombie/king-of-pirate) |
+| 🧟 ENDLESS Z SURVIVOR | [Play](https://7x.games/zombie/endless-z-survivor) |
+| 🧟 Zombies vs special forces | [Play](https://7x.games/zombie/zombies-vs-special-forces) |
+
+#### 🚗 Car Driving Games | [Browse All](https://7x.games/car-driving)
+| Game | Play |
+|---|---|
+| 🚗 Deadly Descent | [Play](https://7x.games/car-driving/deadly-descent) |
+| 🚗 MR RACER - Car Racing | [Play](https://7x.games/car-driving/mr-racer-car-racing) |
+| 🚗 Car Destruction King | [Play](https://7x.games/car-driving/car-destruction-king) |
+| 🚗 Obby: +1 Speed Car Escape | [Play](https://7x.games/car-driving/obby-1-speed-car-escape) |
+| 🚗 Crime and Vice City Police | [Play](https://7x.games/car-driving/crime-and-vice-city-police) |
+| 🚗 Online Car Destruction Simulator 3D | [Play](https://7x.games/car-driving/online-car-destruction) |
+| 🚗 Police Chase Simulator | [Play](https://7x.games/car-driving/police-chase-simulator) |
+| 🚗 Car Smash Simulator: Crash & Tune | [Play](https://7x.games/car-driving/car-smash-simulator-crash--tune) |
+| 🚗 BMG Crash Test | [Play](https://7x.games/car-driving/bmg-crash-test) |
+| 🚗 Car And Truck Parking Game | [Play](https://7x.games/car-driving/car-and-truck-parking-game) |
+| 🚗 Road Chase: Shooter Realistic Guns | [Play](https://7x.games/car-driving/road-chase-shooter-realistic-guns) |
+| 🚗 MR RACER Stunt Mania | [Play](https://7x.games/car-driving/mr-racer-stunt-mania) |
+| 🚗 Draw Bridge - Brain Game | [Play](https://7x.games/car-driving/draw-bridge--brain-game) |
+| 🚗 Grand Shift Auto | [Play](https://7x.games/car-driving/grand-shift-auto) |
+| 🚗 NSR Street | [Play](https://7x.games/car-driving/nsr-street-racing) |
+| 🚗 Demolition Car - Rope and Hook | [Play](https://7x.games/car-driving/demolition-car--rope-and-hook) |
+| 🚗 Race On Cars in Moscow | [Play](https://7x.games/car-driving/race-on-cars-in-moscow) |
+| 🚗 Car Wash DIY | [Play](https://7x.games/car-driving/car-wash-diy) |
+| 🚗 Shape Transforming: Shifting Run | [Play](https://7x.games/car-driving/shape-transforming-shifting-run) |
+| 🚗 Steal Car Duel | [Play](https://7x.games/car-driving/steal-car-duel) |
+| 🚗 Car Escape | [Play](https://7x.games/car-driving/car-escape) |
+| 🚗 Eggy Car | [Play](https://7x.games/car-driving/eggy-car) |
+| 🚗 Street Racer 2D | [Play](https://7x.games/car-driving/street-racer-2d) |
+| 🚗 Car Crash Test: Abandoned City | [Play](https://7x.games/car-driving/car-crash-test-abandoned-city) |
+| 🚗 Carvivor Ops | [Play](https://7x.games/car-driving/carvivor-ops) |
+| 🚗 Mad Truck Challenge Special | [Play](https://7x.games/car-driving/mad-truck-challenge-special) |
+| 🚗 Smash & Speed | [Play](https://7x.games/car-driving/smash-speed) |
+| 🚗 Mechanic Simulator: Car Repair | [Play](https://7x.games/car-driving/mechanic-simulator-car-repair) |
+| 🚗 Drifting Car Master | [Play](https://7x.games/car-driving/drifting-car-master) |
+| 🚗 Drag Racing Club | [Play](https://7x.games/car-driving/drag-racing-club) |
+| 🚗 StreetRacer: Realistic Destruction | [Play](https://7x.games/car-driving/streetracer-realistic-destruction) |
+| 🚗 Zombie Derby 2 | [Play](https://7x.games/car-driving/zombie-derby-2) |
+| 🚗 Turbo Stunt Racing | [Play](https://7x.games/car-driving/turbo-stunt-racing) |
+| 🚗 Car Dealership | [Play](https://7x.games/car-driving/car-dealership) |
+| 🚗 Car Parking 3D | [Play](https://7x.games/car-driving/car-parking-3d) |
+| 🚗 Car Battle | [Play](https://7x.games/car-driving/car-battle) |
+| 🚗 Zombie Derby | [Play](https://7x.games/car-driving/zombie-derby) |
+| 🚗 Super Car Soccer Arena | [Play](https://7x.games/car-driving/super-car-soccer-arena) |
+| 🚗 Mega Ramp Car | [Play](https://7x.games/car-driving/mega-ramp-car) |
+| 🚗 Bobr turbo: craft cars | [Play](https://7x.games/car-driving/bobr-turbo-craft-cars) |
+| 🚗 Parking Master: Urban Challenges | [Play](https://7x.games/car-driving/parking-master-urban-challenges-2a9f-1) |
+| 🚗 Highway Car Shooting 3D Action Game 2025 | [Play](https://7x.games/car-driving/highway-car-shooting-3d-action-game-2025) |
+| 🚗 Road Madness | [Play](https://7x.games/car-driving/road-madness) |
+| 🚗 Real Parking Game | [Play](https://7x.games/car-driving/real-parking-game) |
+| 🚗 Online Car Destruction Simulator 3D | [Play](https://7x.games/car-driving/online-car-destruction-simulator-3d) |
+| 🚗 Drift King Racing Multiplayer | [Play](https://7x.games/car-driving/drift-king-racing-multiplayer) |
+| 🚗 Monsters' Wheels Special | [Play](https://7x.games/car-driving/monsters-wheels-special) |
+| 🚗 Bouncy Motors | [Play](https://7x.games/car-driving/bouncy-motors) |
+| 🚗 Buggy Simulator Sandbox 3D | [Play](https://7x.games/car-driving/buggy-simulator-sandbox-3d) |
+| 🚗 Car Parking Simulator | [Play](https://7x.games/car-driving/car-parking-simulator) |
+| 🚗 Mad Day Special | [Play](https://7x.games/car-driving/mad-day-special) |
+| 🚗 Mega Car Stunts | [Play](https://7x.games/car-driving/mega-car-stunts) |
+| 🚗 Santa Stunt Racer Christmas Delivery | [Play](https://7x.games/car-driving/santa-stunt-racer-christmas-delivery) |
+| 🚗 Simulator GT Motorsport | [Play](https://7x.games/car-driving/simulator-gt-motorsport) |
+| 🚗 TRAFFIC JAM ESCAPE 3D | [Play](https://7x.games/car-driving/traffic-jam-escape-3d) |
+| 🚗 Racing: Destruction and Chase | [Play](https://7x.games/car-driving/racing-destruction-and-chase) |
+| 🚗 Scale the wheels | [Play](https://7x.games/car-driving/scale-the-wheels) |
+| 🚗 Car Escape Parking | [Play](https://7x.games/car-driving/car-escape-parking) |
+| 🚗 Mr. Drifter: Car Chase Simulator | [Play](https://7x.games/car-driving/mr-drifter-car-chase-simulator) |
+| 🚗 Driverz Ed | [Play](https://7x.games/car-driving/driverz-ed) |
+| 🚗 Draw One Line Bridge Puzzle | [Play](https://7x.games/car-driving/draw-one-line-bridge-puzzle) |
+| 🚗 Shape Transform | [Play](https://7x.games/car-driving/shape-transform) |
+| 🚗 Car Collision Master | [Play](https://7x.games/car-driving/car-collision-master) |
+| 🚗 Roots and Wheels | [Play](https://7x.games/car-driving/roots-and-wheels) |
+| 🚗 Gravity Shift Sky Racers GT | [Play](https://7x.games/car-driving/gravity-shift-sky-racers-gt) |
+| 🚗 Cars Challenge | [Play](https://7x.games/car-driving/cars-challenge) |
+| 🚗 Cool Tuning - Paint the Car | [Play](https://7x.games/car-driving/cool-tuning--paint-the-car) |
+| 🚗 Destructive Car Crash Simulator | [Play](https://7x.games/car-driving/destructive-car-crash-simulator) |
+| 🚗 Precision Parking Pro | [Play](https://7x.games/car-driving/precision-parking-pro) |
+| 🚗 City Tuk Tuk Simulator: Racing Game 3D | [Play](https://7x.games/car-driving/city-tuk-tuk-simulator--racing-game-3d) |
+| 🚗 USA Luxury 4x4 SUV Offroad Driving Simulator | [Play](https://7x.games/car-driving/usa-luxury-4x4-suv-offroad-driving-simulator) |
+| 🚗 Micro GT Racing | [Play](https://7x.games/car-driving/micro-gt-racing) |
+| 🚗 Mad Day 2 Special | [Play](https://7x.games/car-driving/mad-day-2-special) |
+| 🚗 Mr.Reckless Car Chase Simulator | [Play](https://7x.games/car-driving/mrreckless-car-chase-simulator) |
+| 🚗 Moto Obby | [Play](https://7x.games/car-driving/moto-obby) |
+| 🚗 Russian Drift: Overtaking in the City | [Play](https://7x.games/car-driving/russian-drift-overtaking-in-the-city-91b8-1) |
+| 🚗 Parking Boom | [Play](https://7x.games/car-driving/parking-boom) |
+| 🚗 Turbo Racer Extreme | [Play](https://7x.games/car-driving/turbo-racer-extreme) |
+| 🚗 Van Rush! | [Play](https://7x.games/car-driving/van-rush) |
+| 🚗 A deadly car crash | [Play](https://7x.games/car-driving/a-deadly-car-crash) |
+| 🚗 Fun Town Parking | [Play](https://7x.games/car-driving/fun-town-parking) |
+| 🚗 Clash of Cars: Arena | [Play](https://7x.games/car-driving/clash-of-cars-arena) |
+| 🚗 Winged Wheels 2 | [Play](https://7x.games/car-driving/winged-wheels-2) |
+| 🚗 Crash Control | [Play](https://7x.games/car-driving/crash-control) |
+| 🚗 Hot Rods Arena Stars | [Play](https://7x.games/car-driving/hot-rods-arena-stars) |
+| 🚗 Stunsteval Siderollers | [Play](https://7x.games/car-driving/stunsteval-siderollers) |
+| 🚗 Car Parking Order | [Play](https://7x.games/car-driving/car-parking-order) |
+| 🚗 Italian Brainrot GT Highway Racing | [Play](https://7x.games/car-driving/italian-brainrot-gt-highway-racing) |
+| 🚗 Mini Car Racing Master 3D | [Play](https://7x.games/car-driving/mini-car-racing-master-3d) |
+| 🚗 Cars | [Play](https://7x.games/car-driving/cars-cbdf-1) |
+| 🚗 Circle Car Crash 3D | [Play](https://7x.games/car-driving/circle-car-crash-3d) |
+| 🚗 Dronner 3D | [Play](https://7x.games/car-driving/dronner-3d) |
+| 🚗 Fristailo Granny! | [Play](https://7x.games/car-driving/fristailo-granny) |
+| 🚗 Crashy Chasy | [Play](https://7x.games/car-driving/crashy-chasy) |
+| 🚗 Furious GT Drift | [Play](https://7x.games/car-driving/furious-gt-drift) |
+
+#### 👯 2 Player Games | [Browse All](https://7x.games/2-player)
+| Game | Play |
+|---|---|
+| 👯 Basketball Stars | [Play](https://7x.games/2-player/basketball-stars) |
+| 👯 Master Chess | [Play](https://7x.games/2-player/master-chess) |
+| 👯 Zombie Space Episode II | [Play](https://7x.games/2-player/zombie-space-episode-ii) |
+| 👯 Backgammon | [Play](https://7x.games/2-player/backgammon-feef-1) |
+| 👯 Escape School Duel | [Play](https://7x.games/2-player/escape-school-duel) |
+| 👯 Snow Rush 3D | [Play](https://7x.games/2-player/snow-rush-3d) |
+| 👯 Ragdoll Soccer | [Play](https://7x.games/2-player/ragdoll-soccer) |
+| 👯 Poison Candy: Obby 1 Or 2-Player | [Play](https://7x.games/2-player/poison-candy-obby-1-or-2player) |
+| 👯 Stealth robbery of a house together | [Play](https://7x.games/2-player/stealth-robbery-of-a-house-together) |
+| 👯 Soccer Legends 2026 | [Play](https://7x.games/2-player/soccer-legends-2026) |
+| 👯 English Checkers Online Multiplayer | [Play](https://7x.games/2-player/english-checkers-online-multiplayer) |
+| 👯 2 Player Games Mini Games | [Play](https://7x.games/2-player/2-player-games-mini-games) |
+| 👯 Flippee Ball | [Play](https://7x.games/2-player/flippee-ball) |
+| 👯 Ludo Legend | [Play](https://7x.games/2-player/ludo-legend) |
+| 👯 Snowy Adventures with Noob and Pro! | [Play](https://7x.games/2-player/snowy-adventures-with-noob-and-pro) |
+| 👯 Master Checkers | [Play](https://7x.games/2-player/master-checkers-25e9-1) |
+| 👯 99 Nights in the Forest with Noob and Pro! | [Play](https://7x.games/2-player/99-nights-in-the-forest-with-noob-and-pro) |
+| 👯 Rolling Balls Sea Race | [Play](https://7x.games/2-player/rolling-balls-sea-race) |
+| 👯 Stickman Miners Wars | [Play](https://7x.games/2-player/stickman-miners-wars-playgama) |
+| 👯 BOMBAMAN 3D | [Play](https://7x.games/2-player/bombaman-3d-a2de-1) |
+| 👯 Micro GT Racing | [Play](https://7x.games/2-player/micro-gt-racing) |
+| 👯 Graveyard Wars - Two player | [Play](https://7x.games/2-player/graveyard-wars--two-player) |
+| 👯 Cowboys Duel | [Play](https://7x.games/2-player/cowboys-duel) |
+| 👯 Bubble Trouble | [Play](https://7x.games/2-player/bubble-trouble) |
+
+#### 🧠 Quiz Games | [Browse All](https://7x.games/quiz)
+| Game | Play |
+|---|---|
+| 🧠 Trivia Millionaire | [Play](https://7x.games/quiz/trivia-millionaire) |
+| 🧠 Maths Puzzle | [Play](https://7x.games/quiz/maths-puzzle) |
+| 🧠 Fun With Flags - Ultimate Quiz Game | [Play](https://7x.games/quiz/fun-with-flags--ultimate-quiz-game) |
+| 🧠 Guess Monster Voice | [Play](https://7x.games/quiz/guess-monster-voice) |
+| 🧠 Stairs Trivia | [Play](https://7x.games/quiz/stairs-trivia-playgama) |
+| 🧠 Logo Quiz Master | [Play](https://7x.games/quiz/logo-quiz-master) |
+| 🧠 World Flags Quiz | [Play](https://7x.games/quiz/world-flags-quiz) |
+| 🧠 Emoji Math Quiz | [Play](https://7x.games/quiz/emoji-math-quiz) |
+
+#### 🧩 Sudoku & Additional Puzzles | [Browse All](https://7x.games/sudoku)
+| Game | Play |
+|---|---|
+| 🧩 Sudoku - Number Games | [Play](https://7x.games/sudoku/sudoku-number-games) |
+| 🧩 Queens Royal: Sudoku Puzzle | [Play](https://7x.games/sudoku/queens-royal-sudoku-puzzle) |
+
+
 ## 🛠️ Built With
 
 ```
