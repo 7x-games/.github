@@ -451,9 +451,64 @@ Explore the full collection here: **[7x.games/chess-games](https://7x.games/ches
 
 ---
 
-**Are you a Chess fan? Which opening is your favorite? Let us know in the comments!**
+---
+ Relax & Unwind: Discover 63+ Free 'Cozy Games' to Play Instantly in Your Browser
+---
 
-#chess #gaming #webdev #strategy #puzzle #7xgames
+# ☕ Relax & Unwind: The Rise of Cozy Gaming on 7x.games
+
+In a world of fast-paced shooters and high-stress battle royales, sometimes you just need to slow down, grab a cup of tea, and enjoy something **wholesome**.
+
+That’s why we are thrilled to announce the launch of our brand-new **[Cozy Games Category](https://7x.games/cozy-games)** on [7x.games](https://7x.games)! We’ve curated over **60+ hand-picked titles** designed to help you de-stress, get creative, and enjoy a peaceful gaming experience right in your browser.
+
+## 🌈 What are Cozy Games?
+
+Cozy games (also known as wholesome games) are all about **low-stress mechanics, charming aesthetics, and soothing soundtracks**. Instead of worrying about "Game Over" screens, you’ll find yourself:
+*   🎨 Designing dream rooms and characters.
+*   🧩 Solving gentle puzzles at your own pace.
+*   🌿 Managing virtual gardens and cafes.
+*   🔍 Finding hidden objects in beautiful, hand-drawn scenes.
+
+## 🚀 Why Play on 7x.games?
+
+We’ve built this collection with the modern player in mind:
+*   **Zero Downloads**: No need to clog up your hard drive. Play instantly in Chrome, Safari, or Edge.
+*   **Mobile-Ready**: Whether you're on an iPad, iPhone, or Android, the games are fully optimized for touch.
+*   **Unblocked & Accessible**: Perfect for a quick break at school or work—no login or accounts required.
+
+## 🎮 Game Highlights You Shouldn't Miss
+
+Here are a few fan-favorites from our new collection:
+
+### 🏠 [TB World](https://7x.games/cozy-games/tb-world)
+A creative workshop where you can bring your fantasies to life! Design stylish character looks and cozy interiors in this vibrant world of imagination.
+
+### 🔍 [Hidden Objects: Island Secrets](https://7x.games/cozy-games/hidden-objects-island-secrets)
+Escape to a magical island where time has been scattered! Search for ancient artifacts and solve temporal paradoxes in a relaxing, atmospheric puzzle adventure.
+
+### 🍰 [Piece of Cake: Merge & Bake](https://7x.games/cozy-games/piece-of-cake-merge--bake)
+Help Emily grow her cafe into a culinary empire. Merge ingredients, solve puzzles, and uncover family secrets in this enchanting mansion-based game.
+
+### 🐱 [Kitty Jewel Quest](https://7x.games/cozy-games/kitty-jewel-quest)
+The ultimate delight for cat lovers. Match adorable kittens in this relaxing Match-3 puzzle designed to provide hours of "purr-fect" relaxation.
+
+### 🧶 [Yarn Fever! Unravel Puzzle](https://7x.games/cozy-games/yarn-fever-unravel-puzzle)
+A soothing thread-sorting challenge. Organize colorful yarns across tricky boards in a game that perfectly blends logic with a calming aesthetic.
+
+---
+
+## ✨ Explore the Full Collection
+
+Ready to start your stress-free journey? Browse all 63 games here:
+
+👉 **[7x.games/cozy-games](https://7x.games/cozy-games)**
+
+Whether you have 5 minutes or 5 hours, our cozy collection is here to help you find your "zen."
+
+
+
+
+
 
 ## 🛠️ Built With
 
