@@ -507,6 +507,83 @@ Whether you have 5 minutes or 5 hours, our cozy collection is here to help you f
 
 
 
+# 🖱️ The Ultimate Collection of Free Clicker & Idle Games! 🚀
+
+Are you a fan of incremental progression, addictive loops, and watching numbers go up exponentially? We've put together a massive collection of **free, unblocked clicker and idle games** you can play directly in your browser. 
+
+No downloads, no accounts, no paywalls. Just pure, endless satisfaction! 💯
+
+Play them all at 👉 **[7x.games/clicker-games](https://7x.games/clicker-games)**
+
+---
+
+## 🌟 Our Full Clicker Games List
+
+Dive into any of these awesome titles by clicking the links below:
+
+* 🎣 [Fishing: Catch the Secret Brainrot](https://7x.games/clicker-games/fishing-catch-the-secret-brainrot)
+* 🧠 [Brainrots Merge](https://7x.games/clicker-games/brainrots-merge)
+* 💻 [Idle Game Dev Simulator](https://7x.games/clicker-games/idle-game-dev-simulator)
+* 🏎️ [My Fast Brainrot](https://7x.games/clicker-games/my-fast-brainrot)
+* 🏗️ [Break a Tower: Obby](https://7x.games/clicker-games/break-a-tower-obby)
+* 🐟 [Fun fishing](https://7x.games/clicker-games/fun-fishing)
+* 💵 [Money cutter idle](https://7x.games/clicker-games/money-cutter-idle)
+* 🕳️ [Feeding A Black Hole](https://7x.games/clicker-games/feeding-a-black-hole)
+* 🐉 [Dragon Hunter](https://7x.games/clicker-games/dragon-hunter)
+* ⚔️ [RPG Idle Clicker](https://7x.games/clicker-games/rpg-idle-clicker)
+* 🤺 [Stickman Clicker](https://7x.games/clicker-games/stickman-clicker)
+* 🎯 [Tap Hunters](https://7x.games/clicker-games/tap-hunters)
+* 🌀 [Spinner Clicker 2D](https://7x.games/clicker-games/spinner-clicker-2d)
+* 💪 [Obby +1 Power!](https://7x.games/clicker-games/obby-1-power)
+* 🦈 [Deadly Catch!](https://7x.games/clicker-games/deadly-catch)
+* 🚤 [Fisher Clicker](https://7x.games/clicker-games/fisher-clicker)
+* 🏭 [Money Factory: Tycoon Idle Game](https://7x.games/clicker-games/money-factory-tycoon-idle-game)
+* 🐒 [Homo Evolution](https://7x.games/clicker-games/homo-evolution)
+* 🧱 [Crusher Block](https://7x.games/clicker-games/crusher-block)
+* 🎵 [Sigma Boy: Musical Clicker](https://7x.games/clicker-games/sigma-boy-musical-clicker)
+* 📦 [Unboxing Brainrots](https://7x.games/clicker-games/unboxing-brainrots)
+* 👑 [Knight Crown Idle](https://7x.games/clicker-games/knight-crown-idle)
+* 🧩 [Mergetopia](https://7x.games/clicker-games/mergetopia)
+* 🃏 [Poker Clicker](https://7x.games/clicker-games/poker-clicker)
+* 🗡️ [Weapons Merge Hero](https://7x.games/clicker-games/weapons-merge-hero)
+* 🐱 [Tap, Think, Save the Kitten!](https://7x.games/clicker-games/tap-think-save-the-kitten)
+* 🦘 [Obby Upgrade Your Jump](https://7x.games/clicker-games/obby-upgrade-your-jump)
+* ⚙️ [Maskinery Idle](https://7x.games/clicker-games/maskinery-idle)
+* 🫧 [Pop It Master](https://7x.games/clicker-games/pop-it-master)
+* ⚡ [Obby Upgrade Your Speed!](https://7x.games/clicker-games/obby-upgrade-your-speed)
+* 🟢 [Click & Idle - Slimes!](https://7x.games/clicker-games/click--idle--slimes)
+* 🏹 [Arrows Idle](https://7x.games/clicker-games/arrows-idle)
+* 🐦 [Bird Game Clicker](https://7x.games/clicker-games/bird-game-clicker)
+* 🏓 [Idle Pong](https://7x.games/clicker-games/idle-pong)
+* 🛍️ [Shopping Simulator](https://7x.games/clicker-games/Shopping-simulator)
+* 🛡️ [Clicker Knights Vs Dragons](https://7x.games/clicker-games/clicker-knights-vs-dragons)
+* 🪲 [Insect Clicker](https://7x.games/clicker-games/insect-clicker)
+* 🔪 [Knife Smash](https://7x.games/clicker-games/knife-smash)
+* 🏙️ [Boys - Battle for the District](https://7x.games/clicker-games/boys--battle-for-the-district)
+* 🎡 [Spin and Collect](https://7x.games/clicker-games/spin-and-collect)
+* 🍪 [Idle Cookie Tycoon](https://7x.games/clicker-games/idle-cookie-tycoon)
+* 🦠 [Slime Clicker](https://7x.games/clicker-games/slime-clicker)
+* ⚔️ [Backslash Slash](https://7x.games/clicker-games/backslash-slash)
+* 👟 [Sneaker Factory!](https://7x.games/clicker-games/sneaker-factory)
+* 🛋️ [Home Decor Clicker](https://7x.games/clicker-games/home-decor-clicker)
+* 🐈 [Click Kitty Idle](https://7x.games/clicker-games/click-kitty-idle)
+* ⛺ [Object 73: Survival Clicker](https://7x.games/clicker-games/object-73-survival-clicker)
+* ⛏️ [Miner Jam](https://7x.games/clicker-games/miner-jam-playgama)
+* 👾 [Monster Slayer. Idle Clicker](https://7x.games/clicker-games/monster-slayer-idle-clicker)
+* 🦑 [Squid Game Evolution: All Characters!](https://7x.games/clicker-games/squid-game-evolution-all-characters)
+* 🔫 [Mr Shooter](https://7x.games/clicker-games/mr-shooter)
+* 🪙 [Flippin Coins](https://7x.games/clicker-games/flippin-coins)
+* 💰 [Millionaire Factory](https://7x.games/clicker-games/millionaire-factory)
+* ⛏️ [Steve Evolution Mega Clicker](https://7x.games/clicker-games/steve-evolution-mega-clicker-b66b-1)
+
+---
+
+### 💡 Why play on 7x.games?
+- **Lightweight & Fast**: Instant loading with HTML5.
+- **Unblocked**: Perfect for school Chromebooks or office networks.
+- **Cross-Platform**: Works smoothly on desktop, mobile, and tablet devices.
+
+Which game is your favorite? Let us know in the comments below! 👇
 
 
 
