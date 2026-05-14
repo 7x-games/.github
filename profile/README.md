@@ -224,7 +224,6 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🔗 Word Associations Can You Guess | [Play](https://7x.games/word-puzzle/word-associations-can-you-guess) |
 | 🔐 Cryptograms Secret Text | [Play](https://7x.games/word-puzzle/cryptograms-secret-text) |
 | 🖼️ Pics 2 Word | [Play](https://7x.games/word-puzzle/pics-2-word) |
-| 🗺️ Word Search Adventure | [Play](https://7x.games/word-puzzle/word-search-adventure) |
 | 🔤 Word Puzzle Connect | [Play](https://7x.games/word-puzzle/word-puzzle-connect-words-and-letters) |
 | 🎨 Draw and Guess Online | [Play](https://7x.games/word-puzzle/draw-and-guess-online) |
 | 🔮 Alpha Balls | [Play](https://7x.games/word-puzzle/alpha-balls) |
