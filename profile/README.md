@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (63/150)
+## ✅ !Games Live (67/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
@@ -123,6 +123,10 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🔤 Boggle Clone | [Play](https://7x.games/games/boggle-online) | Boggle Word Game Online Free |
 | ⌨️ Typing Racer | [Play](https://7x.games/games/typing-racer) | Typing Race Game Online Multiplayer |
 | 🔀 Scramble Words | [Play](https://7x.games/games/scramble-words) | Word Scramble Game Online Free |
+| 🧪 Color Sort | [Play](https://7x.games/games/color-sort) | Color Sort Water Puzzle Online |
+| 🧱 Block Blast | [Play](https://7x.games/games/block-blast) | Block Blast Puzzle Game Online |
+| 🚀 Space Defender | [Play](https://7x.games/games/space-defender) | Space Shooter Arcade Game |
+| 🌀 Neon Maze | [Play](https://7x.games/games/neon-maze) | Neon Maze Labyrinth Puzzle |
 | 🐝 Spelling Bee Clone | Coming Soon | Spelling Bee Word Game Online |
 | 🍲 Letter Soup | Coming Soon | Letter Soup Word Puzzle Free Online |
 | 🔗 Word Chain | Coming Soon | Word Chain Game Online Free |
