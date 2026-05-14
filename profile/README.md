@@ -580,6 +580,48 @@ Dive into any of these awesome titles by clicking the links below:
 * 💰 [Millionaire Factory](https://7x.games/clicker-games/millionaire-factory)
 * ⛏️ [Steve Evolution Mega Clicker](https://7x.games/clicker-games/steve-evolution-mega-clicker-b66b-1)
 
+
+
+#### 🔍 Hidden Objects | [Browse All](https://7x.games/hidden-objects)
+
+| Game | Play Link |
+|---|---|
+| 🕵️ Clues and Mysteries | [Play](https://7x.games/hidden-objects/hidden-object-clues-and-mysteries) |
+| 🐸 Find the Frog | [Play](https://7x.games/hidden-objects/find-the-frog--hidden-objects) |
+| 🏝️ Hidden Objects: Island | [Play](https://7x.games/hidden-objects/hidden-objects-island) |
+| 🔎 Find Out Hidden Object | [Play](https://7x.games/hidden-objects/find-out-hidden-object) |
+| 🏠 Mystery of the Old House | [Play](https://7x.games/hidden-objects/mystery-of-the-old-house-hidden-objects) |
+| 🏃 Schoolboy Runaway | [Play](https://7x.games/hidden-objects/schoolboy-runaway-room-escape) |
+| 🕵️ Blackriver Mystery | [Play](https://7x.games/hidden-objects/blackriver-mystery-hidden-objects) |
+| 🤪 Italian Brainrot: Difference | [Play](https://7x.games/hidden-objects/italian-brainrot-find-the-difference) |
+| 🤡 Funny Finds | [Play](https://7x.games/hidden-objects/funny-finds-hidden-object-game) |
+| 🏚️ Escape Strange Girl's House 2 | [Play](https://7x.games/hidden-objects/escape-strange-girls-house-2) |
+| 🎨 Sticker Art Book Puzzle | [Play](https://7x.games/hidden-objects/sticker-art-book-puzzle) |
+| 🕵️ Detective Max: Mr. Winters | [Play](https://7x.games/hidden-objects/detective-max-mystery-the-disappearance-of-mr-winters) |
+| 🌵 Mike Lost In Desert | [Play](https://7x.games/hidden-objects/mike-lost-in-desert--hidden-object) |
+| 📱 Check Wednesday Phone! | [Play](https://7x.games/hidden-objects/check-wednesday-phone) |
+| ❤️ Love Story: Find the Piece | [Play](https://7x.games/hidden-objects/love-story-find-the-piece) |
+| 🔎 Find the Objects | [Play](https://7x.games/hidden-objects/find-the-objects-8f0a-1) |
+| 🚽 Skibidi Toilet: Objects | [Play](https://7x.games/hidden-objects/skibidi-toilet-find-the-objects) |
+| 🎎 Differences: Anime World | [Play](https://7x.games/hidden-objects/differences-anime-world) |
+| 🐾 Spot the Difference: Animals | [Play](https://7x.games/hidden-objects/spot-the-difference-animals-c052-1) |
+| 🔍 Search & Find | [Play](https://7x.games/hidden-objects/hidden-objects-search--find) |
+| 👵 Scary Granny: Objects | [Play](https://7x.games/hidden-objects/scary-granny-find-the-objects) |
+| 🎃 Halloween Night | [Play](https://7x.games/hidden-objects/hidden-objects-halloween-night) |
+| 🔢 Spot 5 Differences | [Play](https://7x.games/hidden-objects/spot-5-differences-0570-1) |
+| 🍳 Kitchen Secrets | [Play](https://7x.games/hidden-objects/hidden-objects-kitchen-secrets) |
+| 🌴 Secret of the Jungle | [Play](https://7x.games/hidden-objects/the-secret-of-the-jungle-hidden-objects) |
+| ⚔️ Viking's Mystery | [Play](https://7x.games/hidden-objects/vikings-mystery-hidden-objects) |
+| 🧘 Zen Garden | [Play](https://7x.games/hidden-objects/hidden-objects-zen-garden) |
+| 🗼 Paris: Find Differences | [Play](https://7x.games/hidden-objects/paris-find-the-differences) |
+| 🎄 Christmas Eve | [Play](https://7x.games/hidden-objects/hidden-objects-christmas-eve) |
+| 🏫 Detective Max: School Murder | [Play](https://7x.games/hidden-objects/detective-max-the-school-murder-hidden-objects) |
+| 🏠 Home Edition: Differences | [Play](https://7x.games/hidden-objects/find-the-differences-home-edition) |
+| 💼 Office Secrets | [Play](https://7x.games/hidden-objects/hidden-objects-office-secrets) |
+| 🛣️ Street of Secrets | [Play](https://7x.games/hidden-objects/hidden-object-street-of-secrets) |
+
+
+
 ---
 
 ### 💡 Why play on 7x.games?
