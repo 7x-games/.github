@@ -25,7 +25,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 
 ---
 
-## ✅ !Games Live (67/150)
+## ✅ !Games Live (69/150)
 
 ### 🧠 Phase 1 — Foundation
 | Game | Play | Keyword |
@@ -114,7 +114,7 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 💰 Money Math | [Play](https://7x.games/games/money-math) | Money Math Game Online Free Kids |
 | 🏛️ Roman Numerals Game | [Play](https://7x.games/games/roman-numerals) | Roman Numerals Game Online Free |
 
-### 🔤 Phase 7: Word & Language Games (Days 91 - 105) total = 10
+### 🔤 Phase 7: Word & Language Games (Days 91 - 105) total = 14
 
 | Game | Play | Keyword |
 |---|---|---|
@@ -127,11 +127,12 @@ Built solo by **[Sushil Namberdar](https://github.com/sushilnamberdar)** — one
 | 🧱 Block Blast | [Play](https://7x.games/games/block-blast) | Block Blast Puzzle Game Online |
 | 🚀 Space Defender | [Play](https://7x.games/games/space-defender) | Space Shooter Arcade Game |
 | 🌀 Neon Maze | [Play](https://7x.games/games/neon-maze) | Neon Maze Labyrinth Puzzle |
-| 🐝 Spelling Bee Clone | Coming Soon | Spelling Bee Word Game Online |
-| 🍲 Letter Soup | Coming Soon | Letter Soup Word Puzzle Free Online |
+| 🐝 Spelling Bee Clone | [Play](https://7x.games/games/spelling-bee) | Spelling Bee Word Game Online |
+| 🍲 Letter Soup | [Play](https://7x.games/games/letter-soup) | Letter Soup Word Puzzle Free Online |
 | 🔗 Word Chain | Coming Soon | Word Chain Game Online Free |
 | 🎵 Rhyme Time | Coming Soon | Rhyme Word Game Online Brain Puzzle |
 | 🟩 Daily Wordle Hard Mode | Coming Soon | Hard Mode Wordle Clone Daily Free |
+
 ```
 
 
